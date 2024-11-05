@@ -108,7 +108,7 @@ def eliminar_tarea(): # Verifica si el usuario iniciò sesiòn
 # Configuración de la interfaz gráfica
 ventana = tk.Tk()
 ventana.title("Gestión de Tareas")
-ventana.geometry("500x550")
+ventana.geometry("500x600")
 ventana.configure(bg="#234157")
 
 # Frame para el formulario de inicio de sesión
