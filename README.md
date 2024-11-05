@@ -41,3 +41,4 @@ Para ejecutar la aplicación, sigue estos pasos:
    ```
 2. Ejecuta en un primer terminal el servidor de la aplicación con uvicorn api:app --reload.
 3. Ejecuta en una segunda terminal la interfaz gràfica con python grafica.py
+4. USUARIO Y CONTRASEÑA ES: "User" - "1234"
